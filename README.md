@@ -1,4 +1,4 @@
-# 😎 Awesome Reverse Engineering Blogs 😎
+#  Awesome Reverse Engineering Blogs 🤘😎🤘
 
 Blogs are in alphabetical order
 
