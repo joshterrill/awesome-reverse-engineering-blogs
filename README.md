@@ -44,6 +44,7 @@ Blogs are in alphabetical order
 * [Greek geek](https://lecromee.github.io/)
 * [gynvael.coldwind//vx.log](https://gynvael.coldwind.pl/?blog=1)
 * [Hack The World · Juan Carlos Jimenez](https://jcjc-dev.com/)
+* [Hexacorn](https://www.hexacorn.com/blog/)
 * [ICE9 Blog](https://blog.ice9.us/)
 * [International Journal of PoC‖GTFO](https://www.sultanik.com/pocorgtfo/)
 * [IRISSEC - Blog](https://irissec.xyz/articles/)
