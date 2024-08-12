@@ -20,6 +20,7 @@ Blogs are in alphabetical order
 * [Can.ac](https://blog.can.ac/)
 * [Chuong Dong's Security Blog](https://chuongdong.com/blog/)
 * [Claroty - Team82 Cybersecurity Research](https://claroty.com/team82/research)
+* [cocomelonc](https://cocomelonc.github.io/)
 * [Colin O'Flynn](https://colinoflynn.com/)
 * [Computers Are Bad](https://computer.rip/archive.html)
 * [Connor McGarr](https://connormcgarr.github.io/)
