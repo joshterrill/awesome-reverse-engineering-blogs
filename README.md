@@ -102,5 +102,6 @@ Blogs are in alphabetical order
 * [Travis Mathison](https://www.travismathison.com/)
 * [Unit 221b](https://blog.unit221b.com/dont-read-this-blog)
 * [Vincent Van Mieghem](https://vanmieghem.io/blog/)
+* [wumb0.in(g)](https://wumb0.in/)
 * [x86re](https://x86re.com/)
 * [Zero2Automated Blog](https://zero2auto.com/)
